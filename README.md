@@ -1,9 +1,5 @@
 <div align='center'>
-    <h1>My Simple Python Calculator
-    </br>
-    
-    
-    </h1>
+    <h1>My Simple Python Calculator</h1>
     <h2>Designed By Elijah Ekpen Mensah</h2>
     <img src='./demo/demo.gif' title='Simple Python Calculator' width='340px' />
 </div>
